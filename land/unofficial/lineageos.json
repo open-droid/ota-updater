@@ -1,1 +1,12 @@
-
+{
+  "response": [
+    {
+      "datetime": 1485379229, 
+      "filename": "lineage-13.0-20170127-UNOFFICIAL-land.zip", 
+      "id": "58862349a9156451aa715fbd", 
+      "romtype": "UNOFFICIAL", 
+      "url": "https://mirrorbits.lineageos.org/full/bacon/20170123/lineage-14.1-20170123-nightly-bacon-signed.zip", 
+      "version": "13.0"
+    }
+  ]
+}
